@@ -181,23 +181,6 @@
 <!-- ████████████████████  DIVIDER  ████████████████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ██████████████████████████████████████████████████████ -->
-<!--               ACHIEVEMENTS & CERTIFICATIONS            -->
-<!-- ██████████████████████████████████████████████████████ -->
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🎯 Achievement | 📅 |
-|:---|:---:|
-| 🥇 **Top 10** — Huawei ICT Competition 2024–2025 Cloud Track (National Round) | 2025 |
-| 🥇 **Top 10** — AMSA x GDGoC Hackathon | 2026 |
-| 🏅 **Top 50** — GOSOFT RETAIL TECH HACKATHON | 2026 |
-| 📜 **Huawei Tech Essentials** Certificate — Huawei | 2024 |
-| 📜 **Basic Web Development** Certificate — 42 Bangkok | 2024 |
-
-</div>
 
 <!-- ████████████████████  DIVIDER  ████████████████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -209,7 +192,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Earth123456789&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=2&column=4"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MyNameTakopiii&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=2&column=4"/>
 </div>
 
 <!-- ████████████████████  DIVIDER  ████████████████████ -->
