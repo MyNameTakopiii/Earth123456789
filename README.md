@@ -3,7 +3,7 @@
 <!-- ██████████████████████████████████████████████████████ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey!%20I'm%20Earth%20🌍&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Vipat%20Choknantawong%20·%20Full-Stack%20Developer%20·%20IT%20@%20KMITL%20🇹🇭&descAlignY=58&descAlign=50&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey!%20I'm%20Takopiii%20&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Vipat%20Choknantawong%20·%20Full-Stack%20Developer%20·%20IT%20@%20KMITL%20🇹🇭&descAlignY=58&descAlign=50&descSize=18"/>
 </div>
 
 <!-- ██████████████████████████████████████████████████████ -->
