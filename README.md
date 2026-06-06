@@ -7,16 +7,6 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████ -->
-<!--                    TYPING ANIMATION                    -->
-<!-- ██████████████████████████████████████████████████████ -->
-
-<p align="center">
-  <a href="https://github.com/Earth123456789">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub!+👋;Full-Stack+Developer+%7C+Next.js+%7C+FastAPI+%7C+Go+🔥;2x+Hackathon+Top+10+🏆+Huawei+ICT+Top+10+🥇;Intern+%40+Skyfrog+Co.%2C+Ltd.+🚀;KMITL+—+IT+Software+Module+%28Graduating+2026%29+🎓;Let's+Build+Something+Amazing+Together!+⚡" alt="Typing SVG"/>
-  </a>
-</p>
-
-<!-- ██████████████████████████████████████████████████████ -->
 <!--                     STATUS BADGES                      -->
 <!-- ██████████████████████████████████████████████████████ -->
 
@@ -27,7 +17,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/BASED%20IN-Bangkok%20🇹🇭-f97316?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/TOEIC-515-3382ed?style=for-the-badge&logo=duolingo&logoColor=white"/>
 </p>
 
 <br/>
@@ -48,7 +37,7 @@
 ```yaml
 ╔══════════════════════════════════════════╗
   Name     : Vipat Choknantawong
-  Alias    : Earth 🌍
+  Alias    : Takopiii
   Location : Bangkok, Thailand 🇹🇭
   Uni      : KMITL (Graduating 2026)
   Major    : IT — Software Module
@@ -56,13 +45,6 @@
   Status   : "I want to go to bed..." 😴
 ╚══════════════════════════════════════════╝
 ```
-
-🔭 **Currently** interning @ Skyfrog Co., Ltd.  
-🌱 **Learning** system design & software architecture  
-💡 **Passion** for turning ideas into real products  
-🏆 **Achieved** Top 10 in multiple hackathons  
-🤝 **Open to** internships & collaborations  
-⚡ **Fun fact** I debug more than I sleep  
 
   </td>
   <td valign="top" width="45%" align="center">
