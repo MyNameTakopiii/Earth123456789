@@ -55,45 +55,33 @@
   </tr>
 </table>
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td valign="top" width="50%">
-      ## 🛠️ Tech Stack
-      
-      **💻 Languages**
-      <br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,go,cs&perline=5&theme=dark"/>
-      
-      <br/><br/>
-      **🖥️ Frontend**
-      <br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=4&theme=dark"/>
-      
-      <br/><br/>
-      **⚙️ Backend**
-      <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet&perline=5&theme=dark"/>
-      
-      <br/><br/>
-      **🗄️ Databases & ORM**
-      <br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql&perline=4&theme=dark"/>
-      
-      <br/><br/>
-      **🔧 DevOps & Cloud**
-      <br/>
-      <img src="https://skillicons.dev/icons?i=docker,aws,git,linux&perline=4&theme=dark"/>
-    </td>
+## 🛠️ Tech Stack
 
-    <td valign="top" width="50%" align="center">
-      ## 📊 GitHub Stats
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameTakopiii&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=MyNameTakopiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,cs&perline=7&theme=dark"/>
+
+### 🖥️ Frontend Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=5&theme=dark"/>
+
+### ⚙️ Backend Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet&perline=6&theme=dark"/>
+
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql&perline=4&theme=dark"/>
+
+### 🔧 DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux&perline=8&theme=dark"/>
+
+### 🤖 Others
+<img src="https://skillicons.dev/icons?i=rabbitmq,figma,notion&perline=5&theme=dark"/>
+
+</div>
+
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                  GITHUB TROPHIES                       -->
+<!-- ██████████████████████████████████████████████████████ -->
 
 <br/>
 
@@ -137,4 +125,4 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
-</div> อยากได้ tech ต่างอยู่ซ้าย github อยู่ขวา
+</div>
