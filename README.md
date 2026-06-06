@@ -205,9 +205,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Earth123456789&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyNameTakopiii9&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&rank_icon=github"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&langs_count=8&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameTakopiii&langs_count=8&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages"/>
 </div>
 
 <br/>
@@ -219,7 +219,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Earth123456789&bg_color=1c1917&color=f97316&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Earth%27s%20Contribution%20Activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameTakopiii&bg_color=1c1917&color=f97316&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Earth%27s%20Contribution%20Activity"/>
 </div>
 
 <!-- ████████████████████  DIVIDER  ████████████████████ -->
@@ -234,11 +234,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Earth123456789/Earth123456789/output/github-contribution-grid-snake-dark.svg"/>
+      srcset="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Earth123456789/Earth123456789/output/github-contribution-grid-snake.svg"/>
+      srcset="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub Snake Animation"
-      src="https://raw.githubusercontent.com/Earth123456789/Earth123456789/output/github-contribution-grid-snake-dark.svg"/>
+      src="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -268,12 +268,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-</div>
 
 <br/>
 
@@ -283,10 +279,4 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20like%20them!-f97316?style=for-the-badge"/>
-  <br/><br/>
-  <i>Made with ❤️ + ☕ + 😴 by <a href="https://github.com/MyNameTakopiii"><b>Earth 🌍</b></a></i>
 </div>
