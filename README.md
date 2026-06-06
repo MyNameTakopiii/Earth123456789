@@ -1,48 +1,126 @@
-<div id="header" align="center">
-<a href="https://github.com/earth123456789/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=earth123456789&style=for-the-badge">
-</a>
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                     HEADER BANNER                      -->
+<!-- ██████████████████████████████████████████████████████ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey!%20I'm%20Takopiii%20&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Vipat%20Choknantawong%20·%20Full-Stack%20Developer%20·%20IT%20@%20KMITL%20🇹🇭&descAlignY=58&descAlign=50&descSize=18"/>
 </div>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/earth123456789/github-profile-views-counter
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                     STATUS BADGES                      -->
+<!-- ██████████████████████████████████████████████████████ -->
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=earth123456789&style=for-the-badge&color=f97316&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED%20IN-Bangkok%20🇹🇭-f97316?style=for-the-badge"/>
+  &nbsp;
+</p>
 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/OZ1VAPExqf1G40bBAt/giphy.gif" width="750"/>
+<br/>
+
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                       ABOUT ME                         -->
+<!-- ██████████████████████████████████████████████████████ -->
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="55%">
+
+## 👨‍💻 Who Am I?
+
+```yaml
+╔══════════════════════════════════════════╗
+  Name     : Vipat Choknantawong
+  Alias    : Takopiii
+  Location : Bangkok, Thailand 🇹🇭
+  Uni      : KMITL (Graduating 2026)
+  Major    : IT — Software Module
+  Email    : choknantawongvipat@gmail.com
+  Status   : "I want to go to bed..." 😴
+╚══════════════════════════════════════════╝
+```
+
+  </td>
+  <td valign="top" width="45%" align="center">
+    <br/>
+    <img src="https://media3.giphy.com/media/OZ1VAPExqf1G40bBAt/giphy.gif" width="96%"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/💻%20Code-f97316?style=flat-square"/>
+    <img src="https://img.shields.io/badge/☕%20Coffee-brown?style=flat-square"/>
+    <img src="https://img.shields.io/badge/😴%20Sleep-3382ed?style=flat-square"/>
+  </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,cs&perline=7&theme=dark"/>
+
+### 🖥️ Frontend Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=5&theme=dark"/>
+
+### ⚙️ Backend Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet&perline=6&theme=dark"/>
+
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql&perline=4&theme=dark"/>
+
+### 🔧 DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux&perline=8&theme=dark"/>
+
+### 🤖 Others
+<img src="https://skillicons.dev/icons?i=rabbitmq,figma,notion&perline=5&theme=dark"/>
+
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-My name is Vipat
-=============================================================================================================================
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                  GITHUB TROPHIES                       -->
+<!-- ██████████████████████████████████████████████████████ -->
 
-I am a student at university and am studying information technology.
---------------------------------------------------------------------
+<br/>
 
-I'm Vipat Choknantawong, also known as Earth. A passionate and creative software developer who loves to explore new technologies and bring ideas to life. Here's a glimpse of my coding world.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameTakopiii&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+</div>
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [65070209@kmitl.ac.th](mailto:65070209@kmitl.ac.th)
-* 🧠  I'm learning a new framework + software engineer
-* ⚡  I'm want to go to bed now...
+<br/>
 
-### Socials
-<a href="https://instagram.com/earth.chok?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
-</a>
-<a href="https://www.facebook.com/vipat.choknantawong/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-<a href="https://github.com/Earth123456789">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameTakopiii&bg_color=1c1917&color=f97316&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Earth%27s%20Contribution%20Activity"/>
+</div>
 
-### Badges
-<b>My GitHub Stats</b>
+## 🤝 Let's Connect!
 
-<a href="http://www.github.com/Earth123456789"><img src="https://github-readme-stats.vercel.app/api?username=Earth123456789&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Earth123456789's GitHub stats" /></a>
+<div align="center">
+  <a href="https://instagram.com/earth.chok">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/vipat.choknantawong/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MyNameTakopiii">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:choknantawongvipat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+<br/>
 
-<a href="http://www.github.com/Earth123456789"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Earth123456789&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Earth123456789" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
+
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                     FOOTER BANNER                      -->
+<!-- ██████████████████████████████████████████████████████ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
+</div>
