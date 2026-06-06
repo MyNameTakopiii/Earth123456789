@@ -70,22 +70,22 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,cs,html,css&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,cs&perline=7&theme=dark"/>
 
 ### 🖥️ Frontend Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=5&theme=dark"/>
 
 ### ⚙️ Backend Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,nestjs,dotnet&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet&perline=6&theme=dark"/>
 
 ### 🗄️ Databases & ORM
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql&perline=4&theme=dark"/>
 
 ### 🔧 DevOps, Cloud & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,jenkins,figma,notion&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux&perline=8&theme=dark"/>
 
 ### 🤖 Others
-<img src="https://skillicons.dev/icons?i=tensorflow,rabbitmq&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=rabbitmq,figma,notion&perline=5&theme=dark"/>
 
 </div>
 
