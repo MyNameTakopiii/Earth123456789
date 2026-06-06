@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=earth123456789&style=for-the-badge&color=f97316&label=PROFILE+VIEWS"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20To%20Opportunity-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/BASED%20IN-Bangkok%20🇹🇭-f97316?style=for-the-badge"/>
   &nbsp;
 </p>
