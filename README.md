@@ -83,14 +83,6 @@
 <!--                  GITHUB TROPHIES                       -->
 <!-- ██████████████████████████████████████████████████████ -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyNameTakopiii&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&rank_icon=github"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameTakopiii&langs_count=8&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages"/>
-</div>
-
 <br/>
 
 <div align="center">
