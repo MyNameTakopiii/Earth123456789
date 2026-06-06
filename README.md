@@ -21,9 +21,6 @@
 
 <br/>
 
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ██████████████████████████████████████████████████████ -->
 <!--                       ABOUT ME                         -->
 <!-- ██████████████████████████████████████████████████████ -->
@@ -58,13 +55,6 @@
   </tr>
 </table>
 
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ██████████████████████████████████████████████████████ -->
-<!--               TECH STACK — FROM RESUME                 -->
-<!-- ██████████████████████████████████████████████████████ -->
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -88,16 +78,6 @@
 <img src="https://skillicons.dev/icons?i=rabbitmq,figma,notion&perline=5&theme=dark"/>
 
 </div>
-
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ██████████████████████████████████████████████████████ -->
 <!--                  GITHUB TROPHIES                       -->
