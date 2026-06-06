@@ -116,33 +116,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameTakopiii&bg_color=1c1917&color=f97316&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Earth%27s%20Contribution%20Activity"/>
 </div>
 
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ██████████████████████████████████████████████████████ -->
-<!--                  SNAKE CONTRIBUTION                    -->
-<!-- ██████████████████████████████████████████████████████ -->
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Snake Animation"
-      src="https://raw.githubusercontent.com/MyNameTakopiii/MyNameTakopiii/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ██████████████████████████████████████████████████████ -->
-<!--                   SOCIALS / CONNECT                    -->
-<!-- ██████████████████████████████████████████████████████ -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
