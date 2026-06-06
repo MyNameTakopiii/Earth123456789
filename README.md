@@ -83,23 +83,10 @@
 <!--                  GITHUB TROPHIES                       -->
 <!-- ██████████████████████████████████████████████████████ -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MyNameTakopiii&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=2&column=4"/>
-</div>
-
-<!-- ████████████████████  DIVIDER  ████████████████████ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ██████████████████████████████████████████████████████ -->
-<!--                   GITHUB STATISTICS                    -->
-<!-- ██████████████████████████████████████████████████████ -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyNameTakopiii9&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyNameTakopiii&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&rank_icon=github"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameTakopiii&langs_count=8&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages"/>
 </div>
