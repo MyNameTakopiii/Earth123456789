@@ -93,10 +93,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MyNameTakopiii&bg_color=1c1917&color=f97316&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Earth%27s%20Contribution%20Activity"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameTakopiii&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
